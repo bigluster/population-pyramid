@@ -1,0 +1,9 @@
+{
+	"name" : "Double Population Pyramid",
+	"description" : "Double Population Pyramid Extension",
+	"icon" : "bar-chart-horizontal",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "icon.png",
+	"author": "wma@qlik.com"
+}
